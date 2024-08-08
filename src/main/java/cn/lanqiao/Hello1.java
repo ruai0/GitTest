@@ -4,7 +4,7 @@ import java.math.BigDecimal;
 
 public class Hello1 {
     public static void main(String[] args) {
-        String s1 ="100";
+        String s1 ="1000000";
         String s2 ="30";
         BigDecimal price = new BigDecimal(s1);
         BigDecimal price2 = new BigDecimal(s2);
